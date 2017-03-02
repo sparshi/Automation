@@ -1,2 +1,2 @@
 # Automation
-Repo for automation scripts
+Repo for automation test scripts 
